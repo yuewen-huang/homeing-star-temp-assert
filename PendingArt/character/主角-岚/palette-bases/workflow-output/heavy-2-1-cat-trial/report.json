@@ -1,0 +1,116 @@
+[
+  {
+    "frame": 1,
+    "crown": [
+      76,
+      12
+    ],
+    "crown_confidence": 1.0,
+    "repaired_horn_pixels": 23,
+    "tail_root": [
+      83,
+      38
+    ],
+    "tail_template": 2,
+    "tail_angle": 24,
+    "tail_visible_pixels": 72,
+    "tail_overlap_pixels": 12,
+    "tail_clipped_pixels": 0,
+    "low_confidence": false
+  },
+  {
+    "frame": 2,
+    "crown": [
+      80,
+      9
+    ],
+    "crown_confidence": 1.0,
+    "repaired_horn_pixels": 28,
+    "tail_root": [
+      81,
+      36
+    ],
+    "tail_template": 3,
+    "tail_angle": -24,
+    "tail_visible_pixels": 61,
+    "tail_overlap_pixels": 28,
+    "tail_clipped_pixels": 0,
+    "low_confidence": false
+  },
+  {
+    "frame": 3,
+    "crown": [
+      82,
+      11
+    ],
+    "crown_confidence": 1.0,
+    "repaired_horn_pixels": 35,
+    "tail_root": [
+      79,
+      33
+    ],
+    "tail_template": 2,
+    "tail_angle": 0,
+    "tail_visible_pixels": 52,
+    "tail_overlap_pixels": 31,
+    "tail_clipped_pixels": 0,
+    "low_confidence": false
+  },
+  {
+    "frame": 4,
+    "crown": [
+      81,
+      9
+    ],
+    "crown_confidence": 1.0,
+    "repaired_horn_pixels": 42,
+    "tail_root": [
+      79,
+      33
+    ],
+    "tail_template": 2,
+    "tail_angle": 0,
+    "tail_visible_pixels": 60,
+    "tail_overlap_pixels": 23,
+    "tail_clipped_pixels": 0,
+    "low_confidence": false
+  },
+  {
+    "frame": 5,
+    "crown": [
+      80,
+      9
+    ],
+    "crown_confidence": 1.0,
+    "repaired_horn_pixels": 42,
+    "tail_root": [
+      78,
+      33
+    ],
+    "tail_template": 2,
+    "tail_angle": -12,
+    "tail_visible_pixels": 49,
+    "tail_overlap_pixels": 32,
+    "tail_clipped_pixels": 0,
+    "low_confidence": false
+  },
+  {
+    "frame": 6,
+    "crown": [
+      81,
+      9
+    ],
+    "crown_confidence": 1.0,
+    "repaired_horn_pixels": 42,
+    "tail_root": [
+      78,
+      33
+    ],
+    "tail_template": 2,
+    "tail_angle": -12,
+    "tail_visible_pixels": 49,
+    "tail_overlap_pixels": 32,
+    "tail_clipped_pixels": 0,
+    "low_confidence": false
+  }
+]
