@@ -1,0 +1,53 @@
+[
+  {
+    "file": "01_细藤鞭.aseprite",
+    "native_frames": 22,
+    "all_pixels_exact": true,
+    "duration_ms": 1560,
+    "pivot": {
+      "x": 48,
+      "y": 196
+    },
+    "tags": [
+      "全动作",
+      "01_破土生长",
+      "02_蓄力",
+      "03_重拍",
+      "04_回收"
+    ]
+  },
+  {
+    "file": "02_粗藤重拍.aseprite",
+    "native_frames": 22,
+    "all_pixels_exact": true,
+    "duration_ms": 1560,
+    "pivot": {
+      "x": 48,
+      "y": 196
+    },
+    "tags": [
+      "全动作",
+      "01_破土生长",
+      "02_蓄力",
+      "03_重拍",
+      "04_回收"
+    ]
+  },
+  {
+    "file": "03_双藤重拍.aseprite",
+    "native_frames": 22,
+    "all_pixels_exact": true,
+    "duration_ms": 1560,
+    "pivot": {
+      "x": 48,
+      "y": 196
+    },
+    "tags": [
+      "全动作",
+      "01_破土生长",
+      "02_蓄力",
+      "03_重拍",
+      "04_回收"
+    ]
+  }
+]

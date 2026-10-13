@@ -1,0 +1,62 @@
+[
+  {
+    "file": "01_红藤.aseprite",
+    "frames": 14,
+    "two_layers": true,
+    "source_rgba_exact_in_both_layers": true,
+    "native_visible_pixels_and_alpha_exact": true,
+    "duration_ms": 100,
+    "pivot": [
+      52,
+      40
+    ],
+    "native_aseprite": "E:\\Aseprite\\Aseprite.exe",
+    "native_process_exit_code": 3221226505,
+    "native_process_note": "导出完整且逐帧一致；本机版本在导出后异常退出（--version 与既有工程亦如此）。"
+  },
+  {
+    "file": "02_红藤.aseprite",
+    "frames": 13,
+    "two_layers": true,
+    "source_rgba_exact_in_both_layers": true,
+    "native_visible_pixels_and_alpha_exact": true,
+    "duration_ms": 100,
+    "pivot": [
+      52,
+      40
+    ],
+    "native_aseprite": "E:\\Aseprite\\Aseprite.exe",
+    "native_process_exit_code": 3221226505,
+    "native_process_note": "导出完整且逐帧一致；本机版本在导出后异常退出（--version 与既有工程亦如此）。"
+  },
+  {
+    "file": "03_红藤.aseprite",
+    "frames": 14,
+    "two_layers": true,
+    "source_rgba_exact_in_both_layers": true,
+    "native_visible_pixels_and_alpha_exact": true,
+    "duration_ms": 100,
+    "pivot": [
+      52,
+      40
+    ],
+    "native_aseprite": "E:\\Aseprite\\Aseprite.exe",
+    "native_process_exit_code": 3221226505,
+    "native_process_note": "导出完整且逐帧一致；本机版本在导出后异常退出（--version 与既有工程亦如此）。"
+  },
+  {
+    "file": "04_红藤.aseprite",
+    "frames": 13,
+    "two_layers": true,
+    "source_rgba_exact_in_both_layers": true,
+    "native_visible_pixels_and_alpha_exact": true,
+    "duration_ms": 100,
+    "pivot": [
+      52,
+      40
+    ],
+    "native_aseprite": "E:\\Aseprite\\Aseprite.exe",
+    "native_process_exit_code": 3221226505,
+    "native_process_note": "导出完整且逐帧一致；本机版本在导出后异常退出（--version 与既有工程亦如此）。"
+  }
+]

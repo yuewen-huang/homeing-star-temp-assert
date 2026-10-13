@@ -1,0 +1,296 @@
+{ "frames": [
+   {
+    "filename": "03_双藤重拍_高清 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 80
+   },
+   {
+    "filename": "03_双藤重拍_高清 1.aseprite",
+    "frame": { "x": 512, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 2.aseprite",
+    "frame": { "x": 1024, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 3.aseprite",
+    "frame": { "x": 1536, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 4.aseprite",
+    "frame": { "x": 2048, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 5.aseprite",
+    "frame": { "x": 2560, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 6.aseprite",
+    "frame": { "x": 3072, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 7.aseprite",
+    "frame": { "x": 3584, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 80
+   },
+   {
+    "filename": "03_双藤重拍_高清 8.aseprite",
+    "frame": { "x": 4096, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 100
+   },
+   {
+    "filename": "03_双藤重拍_高清 9.aseprite",
+    "frame": { "x": 4608, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 90
+   },
+   {
+    "filename": "03_双藤重拍_高清 10.aseprite",
+    "frame": { "x": 5120, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 100
+   },
+   {
+    "filename": "03_双藤重拍_高清 11.aseprite",
+    "frame": { "x": 5632, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 50
+   },
+   {
+    "filename": "03_双藤重拍_高清 12.aseprite",
+    "frame": { "x": 6144, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 40
+   },
+   {
+    "filename": "03_双藤重拍_高清 13.aseprite",
+    "frame": { "x": 6656, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 40
+   },
+   {
+    "filename": "03_双藤重拍_高清 14.aseprite",
+    "frame": { "x": 7168, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 30
+   },
+   {
+    "filename": "03_双藤重拍_高清 15.aseprite",
+    "frame": { "x": 7680, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 30
+   },
+   {
+    "filename": "03_双藤重拍_高清 16.aseprite",
+    "frame": { "x": 8192, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 100
+   },
+   {
+    "filename": "03_双藤重拍_高清 17.aseprite",
+    "frame": { "x": 8704, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 70
+   },
+   {
+    "filename": "03_双藤重拍_高清 18.aseprite",
+    "frame": { "x": 9216, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 70
+   },
+   {
+    "filename": "03_双藤重拍_高清 19.aseprite",
+    "frame": { "x": 9728, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 70
+   },
+   {
+    "filename": "03_双藤重拍_高清 20.aseprite",
+    "frame": { "x": 10240, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 21.aseprite",
+    "frame": { "x": 10752, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 22.aseprite",
+    "frame": { "x": 11264, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 23.aseprite",
+    "frame": { "x": 11776, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 70
+   },
+   {
+    "filename": "03_双藤重拍_高清 24.aseprite",
+    "frame": { "x": 12288, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 70
+   },
+   {
+    "filename": "03_双藤重拍_高清 25.aseprite",
+    "frame": { "x": 12800, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 70
+   },
+   {
+    "filename": "03_双藤重拍_高清 26.aseprite",
+    "frame": { "x": 13312, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 27.aseprite",
+    "frame": { "x": 13824, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 60
+   },
+   {
+    "filename": "03_双藤重拍_高清 28.aseprite",
+    "frame": { "x": 14336, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 80
+   },
+   {
+    "filename": "03_双藤重拍_高清 29.aseprite",
+    "frame": { "x": 14848, "y": 0, "w": 512, "h": 512 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 512, "h": 512 },
+    "sourceSize": { "w": 512, "h": 512 },
+    "duration": 240
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.15-x64",
+  "image": "native-hd.png",
+  "format": "RGBA8888",
+  "size": { "w": 15360, "h": 512 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "全动作", "from": 0, "to": 29, "direction": "forward" },
+   { "name": "01_破土生长", "from": 0, "to": 7, "direction": "forward" },
+   { "name": "02_绷紧蓄力", "from": 8, "to": 10, "direction": "forward" },
+   { "name": "03_根部发力_鞭梢滞后", "from": 11, "to": 13, "direction": "forward" },
+   { "name": "04_末端快甩_拍地", "from": 14, "to": 18, "direction": "forward" },
+   { "name": "05_余劲反弹_拖回", "from": 19, "to": 23, "direction": "forward" },
+   { "name": "06_收回地下", "from": 24, "to": 29, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "藤鞭_可编辑", "opacity": 255, "blendMode": "normal", "data": "所有特效帧独立；参考层默认隐藏。地底枢轴 (110, 448)。" }
+  ],
+  "slices": [
+   { "name": "ground_origin", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 512, "h": 512 }, "pivot": {"x": 110, "y": 448 } }] }
+  ]
+ }
+}

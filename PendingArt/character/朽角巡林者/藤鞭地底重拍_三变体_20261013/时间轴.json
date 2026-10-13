@@ -1,0 +1,619 @@
+{
+  "canvas": [
+    224,
+    224
+  ],
+  "pivot": [
+    48,
+    196
+  ],
+  "palette": [
+    [
+      23,
+      43,
+      25,
+      255
+    ],
+    [
+      47,
+      80,
+      34,
+      255
+    ],
+    [
+      88,
+      128,
+      49,
+      255
+    ],
+    [
+      163,
+      190,
+      94,
+      255
+    ],
+    [
+      99,
+      69,
+      43,
+      255
+    ],
+    [
+      158,
+      116,
+      65,
+      255
+    ]
+  ],
+  "direction": "向右重拍",
+  "layers": [
+    "参考_隐藏锁定",
+    "藤鞭_可编辑"
+  ],
+  "variants": [
+    {
+      "file": "01_细藤鞭.aseprite",
+      "frames": 22,
+      "duration_ms": 1560,
+      "tags": [
+        {
+          "name": "全动作",
+          "from": 0,
+          "to": 21
+        },
+        {
+          "name": "01_破土生长",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "name": "02_蓄力",
+          "from": 7,
+          "to": 9
+        },
+        {
+          "name": "03_重拍",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "name": "04_回收",
+          "from": 15,
+          "to": 21
+        }
+      ],
+      "frame_plan": [
+        {
+          "frame": 0,
+          "duration_ms": 90,
+          "stage": "01_破土生长",
+          "length": 0,
+          "angle": 0
+        },
+        {
+          "frame": 1,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 8,
+          "angle": 0
+        },
+        {
+          "frame": 2,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 22,
+          "angle": 0
+        },
+        {
+          "frame": 3,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 48,
+          "angle": 0
+        },
+        {
+          "frame": 4,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 80,
+          "angle": 0
+        },
+        {
+          "frame": 5,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 120,
+          "angle": 0
+        },
+        {
+          "frame": 6,
+          "duration_ms": 70,
+          "stage": "01_破土生长",
+          "length": 160,
+          "angle": 0
+        },
+        {
+          "frame": 7,
+          "duration_ms": 110,
+          "stage": "02_蓄力",
+          "length": 160,
+          "angle": 0
+        },
+        {
+          "frame": 8,
+          "duration_ms": 80,
+          "stage": "02_蓄力",
+          "length": 160,
+          "angle": -9
+        },
+        {
+          "frame": 9,
+          "duration_ms": 80,
+          "stage": "02_蓄力",
+          "length": 160,
+          "angle": -14
+        },
+        {
+          "frame": 10,
+          "duration_ms": 50,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 12
+        },
+        {
+          "frame": 11,
+          "duration_ms": 40,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 49
+        },
+        {
+          "frame": 12,
+          "duration_ms": 40,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 80
+        },
+        {
+          "frame": 13,
+          "duration_ms": 90,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 90
+        },
+        {
+          "frame": 14,
+          "duration_ms": 70,
+          "stage": "03_重拍",
+          "length": 156,
+          "angle": 90
+        },
+        {
+          "frame": 15,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 150,
+          "angle": 77
+        },
+        {
+          "frame": 16,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 143,
+          "angle": 55
+        },
+        {
+          "frame": 17,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 118,
+          "angle": 30
+        },
+        {
+          "frame": 18,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 84,
+          "angle": 12
+        },
+        {
+          "frame": 19,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 48,
+          "angle": 0
+        },
+        {
+          "frame": 20,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 15,
+          "angle": 0
+        },
+        {
+          "frame": 21,
+          "duration_ms": 180,
+          "stage": "04_回收",
+          "length": 0,
+          "angle": 0
+        }
+      ]
+    },
+    {
+      "file": "02_粗藤重拍.aseprite",
+      "frames": 22,
+      "duration_ms": 1560,
+      "tags": [
+        {
+          "name": "全动作",
+          "from": 0,
+          "to": 21
+        },
+        {
+          "name": "01_破土生长",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "name": "02_蓄力",
+          "from": 7,
+          "to": 9
+        },
+        {
+          "name": "03_重拍",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "name": "04_回收",
+          "from": 15,
+          "to": 21
+        }
+      ],
+      "frame_plan": [
+        {
+          "frame": 0,
+          "duration_ms": 90,
+          "stage": "01_破土生长",
+          "length": 0,
+          "angle": 0
+        },
+        {
+          "frame": 1,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 8,
+          "angle": 0
+        },
+        {
+          "frame": 2,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 22,
+          "angle": 0
+        },
+        {
+          "frame": 3,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 48,
+          "angle": 0
+        },
+        {
+          "frame": 4,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 80,
+          "angle": 0
+        },
+        {
+          "frame": 5,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 120,
+          "angle": 0
+        },
+        {
+          "frame": 6,
+          "duration_ms": 70,
+          "stage": "01_破土生长",
+          "length": 160,
+          "angle": 0
+        },
+        {
+          "frame": 7,
+          "duration_ms": 110,
+          "stage": "02_蓄力",
+          "length": 160,
+          "angle": 0
+        },
+        {
+          "frame": 8,
+          "duration_ms": 80,
+          "stage": "02_蓄力",
+          "length": 160,
+          "angle": -9
+        },
+        {
+          "frame": 9,
+          "duration_ms": 80,
+          "stage": "02_蓄力",
+          "length": 160,
+          "angle": -14
+        },
+        {
+          "frame": 10,
+          "duration_ms": 50,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 12
+        },
+        {
+          "frame": 11,
+          "duration_ms": 40,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 49
+        },
+        {
+          "frame": 12,
+          "duration_ms": 40,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 80
+        },
+        {
+          "frame": 13,
+          "duration_ms": 90,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 90
+        },
+        {
+          "frame": 14,
+          "duration_ms": 70,
+          "stage": "03_重拍",
+          "length": 156,
+          "angle": 90
+        },
+        {
+          "frame": 15,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 150,
+          "angle": 77
+        },
+        {
+          "frame": 16,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 143,
+          "angle": 55
+        },
+        {
+          "frame": 17,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 118,
+          "angle": 30
+        },
+        {
+          "frame": 18,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 84,
+          "angle": 12
+        },
+        {
+          "frame": 19,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 48,
+          "angle": 0
+        },
+        {
+          "frame": 20,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 15,
+          "angle": 0
+        },
+        {
+          "frame": 21,
+          "duration_ms": 180,
+          "stage": "04_回收",
+          "length": 0,
+          "angle": 0
+        }
+      ]
+    },
+    {
+      "file": "03_双藤重拍.aseprite",
+      "frames": 22,
+      "duration_ms": 1560,
+      "tags": [
+        {
+          "name": "全动作",
+          "from": 0,
+          "to": 21
+        },
+        {
+          "name": "01_破土生长",
+          "from": 0,
+          "to": 6
+        },
+        {
+          "name": "02_蓄力",
+          "from": 7,
+          "to": 9
+        },
+        {
+          "name": "03_重拍",
+          "from": 10,
+          "to": 14
+        },
+        {
+          "name": "04_回收",
+          "from": 15,
+          "to": 21
+        }
+      ],
+      "frame_plan": [
+        {
+          "frame": 0,
+          "duration_ms": 90,
+          "stage": "01_破土生长",
+          "length": 0,
+          "angle": 0
+        },
+        {
+          "frame": 1,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 8,
+          "angle": 0
+        },
+        {
+          "frame": 2,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 22,
+          "angle": 0
+        },
+        {
+          "frame": 3,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 48,
+          "angle": 0
+        },
+        {
+          "frame": 4,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 80,
+          "angle": 0
+        },
+        {
+          "frame": 5,
+          "duration_ms": 60,
+          "stage": "01_破土生长",
+          "length": 120,
+          "angle": 0
+        },
+        {
+          "frame": 6,
+          "duration_ms": 70,
+          "stage": "01_破土生长",
+          "length": 160,
+          "angle": 0
+        },
+        {
+          "frame": 7,
+          "duration_ms": 110,
+          "stage": "02_蓄力",
+          "length": 160,
+          "angle": 0
+        },
+        {
+          "frame": 8,
+          "duration_ms": 80,
+          "stage": "02_蓄力",
+          "length": 160,
+          "angle": -9
+        },
+        {
+          "frame": 9,
+          "duration_ms": 80,
+          "stage": "02_蓄力",
+          "length": 160,
+          "angle": -14
+        },
+        {
+          "frame": 10,
+          "duration_ms": 50,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 12
+        },
+        {
+          "frame": 11,
+          "duration_ms": 40,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 49
+        },
+        {
+          "frame": 12,
+          "duration_ms": 40,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 80
+        },
+        {
+          "frame": 13,
+          "duration_ms": 90,
+          "stage": "03_重拍",
+          "length": 160,
+          "angle": 90
+        },
+        {
+          "frame": 14,
+          "duration_ms": 70,
+          "stage": "03_重拍",
+          "length": 156,
+          "angle": 90
+        },
+        {
+          "frame": 15,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 150,
+          "angle": 77
+        },
+        {
+          "frame": 16,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 143,
+          "angle": 55
+        },
+        {
+          "frame": 17,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 118,
+          "angle": 30
+        },
+        {
+          "frame": 18,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 84,
+          "angle": 12
+        },
+        {
+          "frame": 19,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 48,
+          "angle": 0
+        },
+        {
+          "frame": 20,
+          "duration_ms": 60,
+          "stage": "04_回收",
+          "length": 15,
+          "angle": 0
+        },
+        {
+          "frame": 21,
+          "duration_ms": 180,
+          "stage": "04_回收",
+          "length": 0,
+          "angle": 0
+        }
+      ]
+    }
+  ]
+}

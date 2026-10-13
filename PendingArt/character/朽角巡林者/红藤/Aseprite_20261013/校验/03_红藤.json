@@ -1,0 +1,148 @@
+{ "frames": [
+   {
+    "filename": "03_红藤 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 1.aseprite",
+    "frame": { "x": 104, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 2.aseprite",
+    "frame": { "x": 208, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 3.aseprite",
+    "frame": { "x": 312, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 4.aseprite",
+    "frame": { "x": 416, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 5.aseprite",
+    "frame": { "x": 520, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 6.aseprite",
+    "frame": { "x": 624, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 7.aseprite",
+    "frame": { "x": 728, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 8.aseprite",
+    "frame": { "x": 832, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 9.aseprite",
+    "frame": { "x": 936, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 10.aseprite",
+    "frame": { "x": 1040, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 11.aseprite",
+    "frame": { "x": 1144, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 12.aseprite",
+    "frame": { "x": 1248, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   },
+   {
+    "filename": "03_红藤 13.aseprite",
+    "frame": { "x": 1352, "y": 0, "w": 104, "h": 544 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 544 },
+    "sourceSize": { "w": 104, "h": 544 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.15-x64",
+  "image": "03_红藤.png",
+  "format": "RGBA8888",
+  "size": { "w": 1456, "h": 544 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "全序列", "from": 0, "to": 13, "direction": "forward" },
+   { "name": "生长", "from": 0, "to": 10, "direction": "forward" },
+   { "name": "消散", "from": 11, "to": 13, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "红藤特效_可编辑", "opacity": 255, "blendMode": "normal", "data": "原始 RGBA 切帧，未改颜色、透明度或比例。来源：红色藤蔓生长消散像素动画序列.png" }
+  ],
+  "slices": [
+   { "name": "vine_origin", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 104, "h": 544 }, "pivot": {"x": 52, "y": 40 } }] }
+  ]
+ }
+}

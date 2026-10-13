@@ -1,0 +1,65 @@
+{
+  "frames": 30,
+  "canvas": [
+    512,
+    512
+  ],
+  "pivot": [
+    110,
+    448
+  ],
+  "duration_ms": 2140,
+  "native_rgba_pixel_exact": true,
+  "layers": [
+    {
+      "name": "藤鞭_可编辑",
+      "opacity": 255,
+      "blendMode": "normal",
+      "data": "所有特效帧独立；参考层默认隐藏。地底枢轴 (110, 448)。"
+    }
+  ],
+  "tags": [
+    {
+      "name": "全动作",
+      "from": 0,
+      "to": 29,
+      "direction": "forward"
+    },
+    {
+      "name": "01_破土生长",
+      "from": 0,
+      "to": 7,
+      "direction": "forward"
+    },
+    {
+      "name": "02_绷紧蓄力",
+      "from": 8,
+      "to": 10,
+      "direction": "forward"
+    },
+    {
+      "name": "03_根部发力_鞭梢滞后",
+      "from": 11,
+      "to": 13,
+      "direction": "forward"
+    },
+    {
+      "name": "04_末端快甩_拍地",
+      "from": 14,
+      "to": 18,
+      "direction": "forward"
+    },
+    {
+      "name": "05_余劲反弹_拖回",
+      "from": 19,
+      "to": 23,
+      "direction": "forward"
+    },
+    {
+      "name": "06_收回地下",
+      "from": 24,
+      "to": 29,
+      "direction": "forward"
+    }
+  ]
+}
