@@ -1,0 +1,155 @@
+{ "frames": [
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 1.aseprite",
+    "frame": { "x": 500, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 2.aseprite",
+    "frame": { "x": 1000, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 3.aseprite",
+    "frame": { "x": 1500, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 4.aseprite",
+    "frame": { "x": 2000, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 5.aseprite",
+    "frame": { "x": 2500, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 6.aseprite",
+    "frame": { "x": 3000, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 7.aseprite",
+    "frame": { "x": 3500, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 8.aseprite",
+    "frame": { "x": 4000, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 9.aseprite",
+    "frame": { "x": 4500, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 10.aseprite",
+    "frame": { "x": 5000, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 11.aseprite",
+    "frame": { "x": 5500, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 12.aseprite",
+    "frame": { "x": 6000, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 13.aseprite",
+    "frame": { "x": 6500, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 14.aseprite",
+    "frame": { "x": 7000, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   },
+   {
+    "filename": "05_一阶段_特殊攻击 (技能特效_可编辑) 15.aseprite",
+    "frame": { "x": 7500, "y": 0, "w": 500, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+    "sourceSize": { "w": 500, "h": 500 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.15-x64",
+  "image": "05_一阶段_特殊攻击.png",
+  "format": "RGBA8888",
+  "size": { "w": 8000, "h": 500 },
+  "scale": "1"
+ }
+}

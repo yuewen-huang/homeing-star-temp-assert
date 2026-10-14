@@ -1,0 +1,155 @@
+{ "frames": [
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 1.aseprite",
+    "frame": { "x": 600, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 2.aseprite",
+    "frame": { "x": 1200, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 3.aseprite",
+    "frame": { "x": 1800, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 4.aseprite",
+    "frame": { "x": 2400, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 5.aseprite",
+    "frame": { "x": 3000, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 6.aseprite",
+    "frame": { "x": 3600, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 7.aseprite",
+    "frame": { "x": 4200, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 8.aseprite",
+    "frame": { "x": 4800, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 9.aseprite",
+    "frame": { "x": 5400, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 10.aseprite",
+    "frame": { "x": 6000, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 11.aseprite",
+    "frame": { "x": 6600, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 12.aseprite",
+    "frame": { "x": 7200, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 13.aseprite",
+    "frame": { "x": 7800, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 14.aseprite",
+    "frame": { "x": 8400, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   },
+   {
+    "filename": "04_一阶段_瞬移突进 (技能特效_可编辑) 15.aseprite",
+    "frame": { "x": 9000, "y": 0, "w": 600, "h": 356 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 600, "h": 356 },
+    "sourceSize": { "w": 600, "h": 356 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.15-x64",
+  "image": "04_一阶段_瞬移突进.png",
+  "format": "RGBA8888",
+  "size": { "w": 9600, "h": 356 },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,48 @@
+{
+  "file": "03_一阶段_攻击3_旋风.aseprite",
+  "artist_frames_preserved": [
+    6,
+    7,
+    8
+  ],
+  "other_frames_identical_to_previous_runtime": true,
+  "effect_layer_native_rgba_exact": true,
+  "duration_exact": true,
+  "source_sha256": "87840e855087775ad4ef7aa3241b4b902fb13b47ec6319501eaa0c78b4be8629",
+  "native_exit_code": 3221226505,
+  "hitboxes": [
+    {
+      "frame": 6,
+      "position": [
+        68.0,
+        47.0
+      ],
+      "size": [
+        316,
+        184
+      ]
+    },
+    {
+      "frame": 7,
+      "position": [
+        120.5,
+        77.5
+      ],
+      "size": [
+        191,
+        193
+      ]
+    },
+    {
+      "frame": 8,
+      "position": [
+        95.5,
+        93.5
+      ],
+      "size": [
+        259,
+        159
+      ]
+    }
+  ]
+}

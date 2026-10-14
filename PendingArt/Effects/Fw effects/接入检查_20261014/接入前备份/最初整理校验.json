@@ -1,0 +1,114 @@
+[
+  {
+    "file": "01_一阶段_攻击1.aseprite",
+    "frames": 16,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "02_一阶段_攻击2_三连.aseprite",
+    "frames": 25,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "03_一阶段_攻击3_旋风.aseprite",
+    "frames": 32,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "04_一阶段_瞬移突进.aseprite",
+    "frames": 16,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "05_一阶段_特殊攻击.aseprite",
+    "frames": 16,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "06_二阶段_攻击1.aseprite",
+    "frames": 16,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "07_二阶段_攻击2_三连.aseprite",
+    "frames": 32,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "08_二阶段_金光特殊攻击.aseprite",
+    "frames": 24,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "09_二阶段_瞬移突进.aseprite",
+    "frames": 16,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "10_二阶段_上挑.aseprite",
+    "frames": 16,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "11_二阶段_上挑地面波.aseprite",
+    "frames": 4,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "12_二阶段_狼嚎魔法阵.aseprite",
+    "frames": 32,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "13_共用预警_红光.aseprite",
+    "frames": 5,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  },
+  {
+    "file": "14_共用预警_金光.aseprite",
+    "frames": 5,
+    "rgba_exact_both_layers": true,
+    "timing_exact": true,
+    "native_exit_code": 3221226505,
+    "native_visible_rgba_and_tags_exact": true
+  }
+]

@@ -1,0 +1,1103 @@
+[
+  {
+    "file": "01_一阶段_攻击1.aseprite",
+    "action": "attack_1",
+    "source": "res://assets/sideview/effects/master_wind/phase1_optimized_atak1_fx_675x384_16f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase1_optimized_atak1_body_675x384_16f.png",
+    "canvas": [
+      675,
+      384
+    ],
+    "frame_count": 16,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      9,
+      10,
+      11
+    ],
+    "hit_windows_one_based": [
+      [
+        9,
+        11
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        16
+      ],
+      [
+        "特效出现_09-11",
+        9,
+        11
+      ],
+      [
+        "打击1_09-11",
+        9,
+        11
+      ]
+    ],
+    "runtime_position_constant": [
+      0,
+      -192
+    ],
+    "runtime_scale": 1,
+    "source_sha256": "49459ce790a520adf77a4715d61b305cd19a92a1fdbc51ead07e43f23d23b282",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。",
+    "previous_runtime_sha256": "493943ae1e9204b19fb01e890a866bfc213a954e34c38ece5647c4107f3a33c2",
+    "imported": "2026-10-14"
+  },
+  {
+    "file": "02_一阶段_攻击2_三连.aseprite",
+    "action": "attack_2",
+    "source": "res://assets/sideview/effects/master_wind/phase1_optimized_atak2_fx_750x384_25f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase1_optimized_atak2_body_750x384_25f.png",
+    "canvas": [
+      750,
+      384
+    ],
+    "frame_count": 25,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      9,
+      10,
+      11,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "hit_windows_one_based": [
+      [
+        9,
+        11
+      ],
+      [
+        16,
+        18
+      ],
+      [
+        21,
+        23
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        25
+      ],
+      [
+        "特效出现_09-11",
+        9,
+        11
+      ],
+      [
+        "特效出现_16-23",
+        16,
+        23
+      ],
+      [
+        "打击1_09-11",
+        9,
+        11
+      ],
+      [
+        "打击2_16-18",
+        16,
+        18
+      ],
+      [
+        "打击3_21-23",
+        21,
+        23
+      ]
+    ],
+    "runtime_position_constant": [
+      37.5,
+      -192
+    ],
+    "runtime_scale": 1,
+    "source_sha256": "e062584d5235dd0c4704bbdc25119721ede37f682a58c7a274868b0d79ffde9f",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。",
+    "previous_runtime_sha256": "0241c28973a78399d661f9914050edbe87ac1d27225e437a1eefb88c6e3e00d7",
+    "imported": "2026-10-14"
+  },
+  {
+    "file": "03_一阶段_攻击3_旋风.aseprite",
+    "action": "attack_3",
+    "source": "res://assets/sideview/effects/master_wind/phase1_optimized_atak3_fx_600x350_32f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase1_optimized_atak3_body_600x350_32f.png",
+    "canvas": [
+      600,
+      350
+    ],
+    "frame_count": 32,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      6,
+      7,
+      8,
+      11,
+      12,
+      13,
+      18,
+      19
+    ],
+    "hit_windows_one_based": [
+      [
+        6,
+        8
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        18,
+        19
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        32
+      ],
+      [
+        "特效出现_06-08",
+        6,
+        8
+      ],
+      [
+        "特效出现_11-13",
+        11,
+        13
+      ],
+      [
+        "特效出现_18-19",
+        18,
+        19
+      ],
+      [
+        "打击1_06-08",
+        6,
+        8
+      ],
+      [
+        "打击2_11-13",
+        11,
+        13
+      ],
+      [
+        "打击3_18-19",
+        18,
+        19
+      ]
+    ],
+    "runtime_position_constant": [
+      122,
+      -218.75
+    ],
+    "runtime_scale": 1.25,
+    "source_sha256": "e450055068973dad8a7b04d9eb79d2e488aa862763d014f5114f5e82e98705c7",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。",
+    "previous_runtime_sha256": "2fc70df082bb273f2b2dbb1a75b9fd1961690bf20914675dce4c9f4b7504c033",
+    "imported": "2026-10-14"
+  },
+  {
+    "file": "04_一阶段_瞬移突进.aseprite",
+    "action": "dash",
+    "source": "res://assets/sideview/effects/master_wind/phase1_optimized_shunyi_fx_600x356_16f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase1_optimized_shunyi_body_600x356_16f.png",
+    "canvas": [
+      600,
+      356
+    ],
+    "frame_count": 16,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "hit_windows_one_based": [
+      [
+        8,
+        11
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        16
+      ],
+      [
+        "特效出现_07-11",
+        7,
+        11
+      ],
+      [
+        "打击1_08-11",
+        8,
+        11
+      ]
+    ],
+    "runtime_position_constant": [
+      0,
+      -128
+    ],
+    "runtime_scale": 1,
+    "source_sha256": "aa02a7aafaa944ed91708421e05ec3df5465421980e97c91281f45f2ac7776bb",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。",
+    "previous_runtime_sha256": "cd65a6ccb1e069f73d946ef55c361965f7ef83b5df89794e1eee5a52b4f4fd7a",
+    "imported": "2026-10-14"
+  },
+  {
+    "file": "05_一阶段_特殊攻击.aseprite",
+    "action": "special_attack",
+    "source": "res://assets/sideview/effects/master_wind/phase1_optimized_sp_atak_fx_500x500_16f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase1_optimized_sp_atak_body_500x500_16f.png",
+    "canvas": [
+      500,
+      500
+    ],
+    "frame_count": 16,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "hit_windows_one_based": [
+      [
+        13,
+        15
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        16
+      ],
+      [
+        "特效出现_04-09",
+        4,
+        9
+      ],
+      [
+        "特效出现_11-15",
+        11,
+        15
+      ],
+      [
+        "打击1_13-15",
+        13,
+        15
+      ]
+    ],
+    "runtime_position_constant": [
+      -34.5,
+      -162.5
+    ],
+    "runtime_scale": 1,
+    "source_sha256": "a7e572ef4d830d38d3b6651fedf8d4f9debd8c0265ed57efe2099ad4a5288b74",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。",
+    "previous_runtime_sha256": "f23b7d3327167147f403020018b08f5fd15be6008a67aa5c9be5b56c4b1ad244",
+    "imported": "2026-10-14"
+  },
+  {
+    "file": "06_二阶段_攻击1.aseprite",
+    "action": "phase_2_attack_1",
+    "source": "res://assets/sideview/effects/master_wind/phase2/attack_1_fx_256x256_16f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase2/attack_1_256x256_16f.png",
+    "canvas": [
+      256,
+      256
+    ],
+    "frame_count": 16,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "hit_windows_one_based": [
+      [
+        9,
+        13
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        16
+      ],
+      [
+        "特效出现_07-14",
+        7,
+        14
+      ],
+      [
+        "打击1_09-13",
+        9,
+        13
+      ]
+    ],
+    "runtime_position_constant": [
+      0,
+      -72
+    ],
+    "runtime_scale": 1.7,
+    "source_sha256": "33134b2c980a5cb2ba0e1e6d171e102e9a9e3c0bf0d05fc3b67a07af730832e1",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。"
+  },
+  {
+    "file": "07_二阶段_攻击2_三连.aseprite",
+    "action": "phase_2_attack_2",
+    "source": "res://assets/sideview/effects/master_wind/phase2/attack_2_fx_300x350_32f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase2/attack_2_300x350_32f.png",
+    "canvas": [
+      300,
+      350
+    ],
+    "frame_count": 32,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      7,
+      8,
+      11,
+      12,
+      13,
+      14,
+      25,
+      26,
+      27
+    ],
+    "hit_windows_one_based": [
+      [
+        7,
+        8
+      ],
+      [
+        12,
+        14
+      ],
+      [
+        25,
+        27
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        32
+      ],
+      [
+        "特效出现_07-08",
+        7,
+        8
+      ],
+      [
+        "特效出现_11-14",
+        11,
+        14
+      ],
+      [
+        "特效出现_25-27",
+        25,
+        27
+      ],
+      [
+        "打击1_07-08",
+        7,
+        8
+      ],
+      [
+        "打击2_12-14",
+        12,
+        14
+      ],
+      [
+        "打击3_25-27",
+        25,
+        27
+      ]
+    ],
+    "runtime_position_constant": [
+      22,
+      -119
+    ],
+    "runtime_scale": 1.7,
+    "source_sha256": "5ed70ebc27706e1c06e4378db20e5806e2fa2606a27943e272dc71b555c4d8ce",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。"
+  },
+  {
+    "file": "08_二阶段_金光特殊攻击.aseprite",
+    "action": "phase_2_special_attack",
+    "source": "res://assets/sideview/effects/master_wind/phase2/special_attack_fx_380x300_24f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase2/special_attack_380x300_24f.png",
+    "canvas": [
+      380,
+      300
+    ],
+    "frame_count": 24,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      16,
+      17
+    ],
+    "hit_windows_one_based": [
+      [
+        7,
+        9
+      ],
+      [
+        10,
+        12
+      ],
+      [
+        16,
+        17
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        24
+      ],
+      [
+        "特效出现_07-13",
+        7,
+        13
+      ],
+      [
+        "特效出现_16-17",
+        16,
+        17
+      ],
+      [
+        "打击1_07-09",
+        7,
+        9
+      ],
+      [
+        "打击2_10-12",
+        10,
+        12
+      ],
+      [
+        "打击3_16-17",
+        16,
+        17
+      ]
+    ],
+    "runtime_position_constant": [
+      65,
+      -95
+    ],
+    "runtime_scale": 1.7,
+    "source_sha256": "ab65ff833908d9bb591a3eed080498287062823573366f7919f82c83ea67dca4",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。"
+  },
+  {
+    "file": "09_二阶段_瞬移突进.aseprite",
+    "action": "phase_2_dash",
+    "source": "res://assets/sideview/effects/master_wind/phase2/dash_fx_384x384_16f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase2/dash_384x384_16f.png",
+    "canvas": [
+      384,
+      384
+    ],
+    "frame_count": 16,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      7,
+      8,
+      9
+    ],
+    "hit_windows_one_based": [
+      [
+        7,
+        9
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        16
+      ],
+      [
+        "特效出现_07-09",
+        7,
+        9
+      ],
+      [
+        "打击1_07-09",
+        7,
+        9
+      ]
+    ],
+    "runtime_position_constant": [
+      2.5,
+      -73
+    ],
+    "runtime_scale": 1.7,
+    "source_sha256": "9addb1a59d8b20f26e104109439867a9cd352995f4384f4c8d1323b66602df6d",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。"
+  },
+  {
+    "file": "10_二阶段_上挑.aseprite",
+    "action": "phase_2_uppercut",
+    "source": "res://assets/sideview/effects/master_wind/phase2/uppercut_fx_350x350_16f.png",
+    "body_reference": "res://assets/sideview/characters/master/boss/phase2/uppercut_350x350_16f.png",
+    "canvas": [
+      350,
+      350
+    ],
+    "frame_count": 16,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "hit_windows_one_based": [
+      [
+        6,
+        9
+      ]
+    ],
+    "tags": [
+      [
+        "全序列",
+        1,
+        16
+      ],
+      [
+        "特效出现_06-09",
+        6,
+        9
+      ],
+      [
+        "打击1_06-09",
+        6,
+        9
+      ]
+    ],
+    "runtime_position_constant": [
+      73.5,
+      -170
+    ],
+    "runtime_scale": 1.43,
+    "source_sha256": "6d9909abbf18d04536744b5b276d65a170f7d6d4e3d26e571eea97ac1fdf0463",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。"
+  },
+  {
+    "file": "11_二阶段_上挑地面波.aseprite",
+    "action": "travel",
+    "source": "res://assets/sideview/effects/master_wind/phase2/uppercut_ground_wave_266x116_4f.png",
+    "body_reference": null,
+    "canvas": [
+      266,
+      116
+    ],
+    "frame_count": 4,
+    "durations_ms": [
+      100,
+      100,
+      100,
+      100
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "hit_windows_one_based": [],
+    "tags": [
+      [
+        "全序列",
+        1,
+        4
+      ],
+      [
+        "特效出现_01-04",
+        1,
+        4
+      ]
+    ],
+    "runtime_position_constant": [
+      0,
+      -54
+    ],
+    "runtime_scale": 1.2,
+    "source_sha256": "727ec6d81bf179f5bf2175d5a627a753d7ce3f85aa9ff9d3644d68d4732a3310",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。"
+  },
+  {
+    "file": "12_二阶段_狼嚎魔法阵.aseprite",
+    "action": "howl_circle",
+    "source": "res://assets/sideview/effects/lan_wind_magic/wind_magic_192x225_32f.png",
+    "body_reference": null,
+    "canvas": [
+      192,
+      225
+    ],
+    "frame_count": 32,
+    "durations_ms": [
+      62,
+      63,
+      63,
+      62,
+      62,
+      63,
+      63,
+      62,
+      62,
+      63,
+      63,
+      62,
+      62,
+      63,
+      63,
+      62,
+      62,
+      63,
+      63,
+      62,
+      62,
+      63,
+      63,
+      62,
+      62,
+      63,
+      63,
+      62,
+      62,
+      63,
+      63,
+      62
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "hit_windows_one_based": [],
+    "tags": [
+      [
+        "全序列",
+        1,
+        32
+      ],
+      [
+        "特效出现_01-32",
+        1,
+        32
+      ]
+    ],
+    "runtime_position_constant": [
+      0,
+      -145
+    ],
+    "runtime_scale": 1.35,
+    "source_sha256": "c252c0a21bba974cd6cee04d787529e79951081cacad9212ccee36622a7c9240",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。"
+  },
+  {
+    "file": "13_共用预警_红光.aseprite",
+    "action": "warning_red",
+    "source": "res://assets/sideview/effects/combat_warning/red_counter_warning_625x87_5f.png",
+    "body_reference": null,
+    "canvas": [
+      125,
+      87
+    ],
+    "frame_count": 5,
+    "durations_ms": [
+      62,
+      63,
+      63,
+      62,
+      62
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "hit_windows_one_based": [],
+    "tags": [
+      [
+        "全序列",
+        1,
+        5
+      ],
+      [
+        "特效出现_01-05",
+        1,
+        5
+      ]
+    ],
+    "runtime_position_constant": null,
+    "runtime_scale": 1,
+    "source_sha256": "0b6ad54ee0fab96d619de9fba4a757c31cab892f0abe8b14f7dba145d61c405c",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。"
+  },
+  {
+    "file": "14_共用预警_金光.aseprite",
+    "action": "warning_gold",
+    "source": "res://assets/sideview/effects/combat_warning/gold_unparryable_warning_625x87_5f.png",
+    "body_reference": null,
+    "canvas": [
+      125,
+      87
+    ],
+    "frame_count": 5,
+    "durations_ms": [
+      62,
+      63,
+      63,
+      62,
+      62
+    ],
+    "aseprite_frame_base": 1,
+    "godot_frame_base": 0,
+    "visible_effect_frames": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "hit_windows_one_based": [],
+    "tags": [
+      [
+        "全序列",
+        1,
+        5
+      ],
+      [
+        "特效出现_01-05",
+        1,
+        5
+      ]
+    ],
+    "runtime_position_constant": null,
+    "runtime_scale": 1,
+    "source_sha256": "0980ee1a89324c914fd8f73d8dc1a495de09d859f0f6c5afd527dff5d6b81178",
+    "pivot_note": "PNG 没有切片 pivot；画布、像素位置不变。保留运行时位置/比例常量，未添加或取整半像素 pivot。"
+  }
+]

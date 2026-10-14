@@ -1,0 +1,277 @@
+{
+  "clips": [
+    {
+      "file": "01_一阶段_攻击1.aseprite",
+      "artist_frames_preserved": [
+        9,
+        10,
+        11
+      ],
+      "recolored_frames": [],
+      "reference_exact": true,
+      "alpha_and_timing_exact": true,
+      "runtime": "D:\\HomingStar\\homeing-star-game\\assets\\sideview\\effects\\master_wind\\phase1_optimized_atak1_fx_675x384_16f.png",
+      "native_export_exit": 3221226505,
+      "native_visible_rgba_exact": true
+    },
+    {
+      "file": "02_一阶段_攻击2_三连.aseprite",
+      "artist_frames_preserved": [
+        9,
+        10,
+        11,
+        16,
+        17,
+        18,
+        19
+      ],
+      "recolored_frames": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "reference_exact": true,
+      "alpha_and_timing_exact": true,
+      "runtime": "D:\\HomingStar\\homeing-star-game\\assets\\sideview\\effects\\master_wind\\phase1_optimized_atak2_fx_750x384_25f.png",
+      "native_export_exit": 3221226505,
+      "native_visible_rgba_exact": true
+    },
+    {
+      "file": "03_一阶段_攻击3_旋风.aseprite",
+      "artist_frames_preserved": [
+        6,
+        7,
+        8
+      ],
+      "recolored_frames": [
+        11,
+        12,
+        13,
+        18,
+        19
+      ],
+      "reference_exact": true,
+      "alpha_and_timing_exact": true,
+      "runtime": "D:\\HomingStar\\homeing-star-game\\assets\\sideview\\effects\\master_wind\\phase1_optimized_atak3_fx_600x350_32f.png",
+      "native_export_exit": 3221226505,
+      "native_visible_rgba_exact": true,
+      "additional_import": "攻击3补充_678"
+    },
+    {
+      "file": "04_一阶段_瞬移突进.aseprite",
+      "artist_frames_preserved": [],
+      "recolored_frames": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "reference_exact": true,
+      "alpha_and_timing_exact": true,
+      "runtime": "D:\\HomingStar\\homeing-star-game\\assets\\sideview\\effects\\master_wind\\phase1_optimized_shunyi_fx_600x356_16f.png",
+      "native_export_exit": 3221226505,
+      "native_visible_rgba_exact": true
+    },
+    {
+      "file": "05_一阶段_特殊攻击.aseprite",
+      "artist_frames_preserved": [],
+      "recolored_frames": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "reference_exact": true,
+      "alpha_and_timing_exact": true,
+      "runtime": "D:\\HomingStar\\homeing-star-game\\assets\\sideview\\effects\\master_wind\\phase1_optimized_sp_atak_fx_500x500_16f.png",
+      "native_export_exit": 3221226505,
+      "native_visible_rgba_exact": true
+    }
+  ],
+  "hitboxes": {
+    "attack_1": [
+      {
+        "frame": 9,
+        "position": [
+          106.5,
+          38.5
+        ],
+        "size": [
+          428,
+          263
+        ]
+      },
+      {
+        "frame": 10,
+        "position": [
+          184.0,
+          69.5
+        ],
+        "size": [
+          213,
+          245
+        ]
+      },
+      {
+        "frame": 11,
+        "position": [
+          134.5,
+          78.0
+        ],
+        "size": [
+          314,
+          228
+        ]
+      }
+    ],
+    "attack_2": [
+      {
+        "frame": 9,
+        "position": [
+          69.0,
+          38.5
+        ],
+        "size": [
+          428,
+          263
+        ]
+      },
+      {
+        "frame": 10,
+        "position": [
+          146.5,
+          69.5
+        ],
+        "size": [
+          213,
+          245
+        ]
+      },
+      {
+        "frame": 11,
+        "position": [
+          97.0,
+          78.0
+        ],
+        "size": [
+          314,
+          228
+        ]
+      },
+      {
+        "frame": 16,
+        "position": [
+          90.5,
+          46.5
+        ],
+        "size": [
+          399,
+          287
+        ]
+      },
+      {
+        "frame": 17,
+        "position": [
+          33.5,
+          24.0
+        ],
+        "size": [
+          511,
+          336
+        ]
+      },
+      {
+        "frame": 18,
+        "position": [
+          46.0,
+          33.5
+        ],
+        "size": [
+          486,
+          315
+        ]
+      }
+    ],
+    "attack_3": [
+      {
+        "frame": 6,
+        "position": [
+          68.0,
+          47.0
+        ],
+        "size": [
+          316,
+          184
+        ]
+      },
+      {
+        "frame": 7,
+        "position": [
+          120.5,
+          77.5
+        ],
+        "size": [
+          191,
+          193
+        ]
+      },
+      {
+        "frame": 8,
+        "position": [
+          95.5,
+          93.5
+        ],
+        "size": [
+          259,
+          159
+        ]
+      }
+    ]
+  },
+  "palette": [
+    [
+      1,
+      60,
+      106
+    ],
+    [
+      1,
+      113,
+      182
+    ],
+    [
+      1,
+      124,
+      198
+    ],
+    [
+      1,
+      151,
+      236
+    ],
+    [
+      0,
+      242,
+      253
+    ],
+    [
+      105,
+      240,
+      199
+    ],
+    [
+      255,
+      255,
+      255
+    ]
+  ]
+}

@@ -1,0 +1,236 @@
+{ "frames": [
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 0.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 1.aseprite",
+    "frame": { "x": 750, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 2.aseprite",
+    "frame": { "x": 1500, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 3.aseprite",
+    "frame": { "x": 2250, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 4.aseprite",
+    "frame": { "x": 3000, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 5.aseprite",
+    "frame": { "x": 3750, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 6.aseprite",
+    "frame": { "x": 4500, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 7.aseprite",
+    "frame": { "x": 5250, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 8.aseprite",
+    "frame": { "x": 6000, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 9.aseprite",
+    "frame": { "x": 6750, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 10.aseprite",
+    "frame": { "x": 7500, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 11.aseprite",
+    "frame": { "x": 8250, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 12.aseprite",
+    "frame": { "x": 9000, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 13.aseprite",
+    "frame": { "x": 9750, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 14.aseprite",
+    "frame": { "x": 10500, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 15.aseprite",
+    "frame": { "x": 11250, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 16.aseprite",
+    "frame": { "x": 12000, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 17.aseprite",
+    "frame": { "x": 12750, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 18.aseprite",
+    "frame": { "x": 13500, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 19.aseprite",
+    "frame": { "x": 14250, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 20.aseprite",
+    "frame": { "x": 15000, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 21.aseprite",
+    "frame": { "x": 15750, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 22.aseprite",
+    "frame": { "x": 16500, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 23.aseprite",
+    "frame": { "x": 17250, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   },
+   {
+    "filename": "02_一阶段_攻击2_三连 (技能特效_可编辑) 24.aseprite",
+    "frame": { "x": 18000, "y": 0, "w": 750, "h": 384 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 384 },
+    "sourceSize": { "w": 750, "h": 384 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.15-x64",
+  "image": "02_一阶段_攻击2_三连.png",
+  "format": "RGBA8888",
+  "size": { "w": 18750, "h": 384 },
+  "scale": "1"
+ }
+}
