@@ -1,0 +1,757 @@
+{
+  "files": 72,
+  "frames": 432,
+  "palettes": {
+    "1_红白": {
+      "hsv_tuning": [
+        0.0,
+        1.1,
+        0.0
+      ],
+      "white_cutoff_saturation": 0.08
+    },
+    "2_蓝白": {
+      "hsv_tuning": [
+        0.5888888888888889,
+        1.1,
+        0.0
+      ],
+      "white_cutoff_saturation": 0.08
+    },
+    "3_橄榄绿白": {
+      "hsv_tuning": [
+        0.18055555555555555,
+        1.0,
+        0.48
+      ],
+      "white_cutoff_saturation": 0.08
+    },
+    "4_黑白": {
+      "hsv_tuning": null,
+      "white_cutoff_saturation": 0.08
+    }
+  },
+  "source_unchanged": true,
+  "results": [
+    {
+      "variant": "1_红白",
+      "source": "01_A_从上到下_薄刃快斩.aseprite",
+      "source_sha256": "e430ff7a8b463f4be77b1686d0717238dea3f7bdc713060bef63c097dce9cde0",
+      "output_sha256": "57d30e14534aa4e3b32c32e0b7c0e2421f256739517ff1f23e70ed971a07f7a5",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "01_B_从上到下_宽弧重斩.aseprite",
+      "source_sha256": "e52e3d4af89fd8f86509eea8a7a05880e0ed2465f11e6db7a0aa474e5e79c71c",
+      "output_sha256": "a166eab0f151fbb93abbfaa8af7a91a657b579d58c369736acca40a68726e329",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "01_C_从上到下_碎风多刃.aseprite",
+      "source_sha256": "3d562382102c8139f159b58f64b1621f0cf0bac1fe185f058be432de9fd13cb2",
+      "output_sha256": "ba0dc342f14c99e6f0556102553389a4d19ad75a310cc19f4b5466f31285cfd2",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "02_A_从斜上到斜下_薄刃快斩.aseprite",
+      "source_sha256": "64b2d129bf3938cc592e32b23f4557fc04425078d8f8f795d95b789ce8346226",
+      "output_sha256": "c1a11cbf25df345866384965f89b316aaef05bba50fb6f574d2d95fd6ef1e092",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "02_B_从斜上到斜下_宽弧重斩.aseprite",
+      "source_sha256": "c2aef2764defd0756bb8f3ac9ca2b10ccac49114b15afd7253ec2309b6b49b8b",
+      "output_sha256": "cb6c71b3526f65b125a44ed729fbeaa5ae9b5a93669d704f66c93296a60b8cdd",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "02_C_从斜上到斜下_碎风多刃.aseprite",
+      "source_sha256": "58e05dfb0e7630f840de40230b3fe73d3afda5ed1a88a562d8ac087507e15ab9",
+      "output_sha256": "2f7ee3c648c3516e2be53bc46f1d7dbbc78e7cae59eadd080ed5e0283b967a36",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "03_A_从下到上_薄刃快斩.aseprite",
+      "source_sha256": "005eb69d458e3a10e444a4779c999881306d7e09d90b720cfdbf4a8d8f715dc0",
+      "output_sha256": "262b1acd8c37dd9908daeabb6db78532fcbc8cfeb015ec45d5dc14786401ebe7",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "03_B_从下到上_宽弧重斩.aseprite",
+      "source_sha256": "b10312574c1d6fe3d8d18e190d7f3e71f99f69d179e607d8823d26cd7ab7ef7a",
+      "output_sha256": "7b8fe47efa23e80acd4a7004f627c17437a21d302966a1af1c2c2fba68102678",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "03_C_从下到上_碎风多刃.aseprite",
+      "source_sha256": "ea985bc40d332d1a28b65309bb98c2bd68a03f543c41eb22380a2c4fc89edf95",
+      "output_sha256": "5499b787a8ae025306a018e93bf3161db3fc3279f2d5bc0fcd7eaa88b0ae18f2",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "04_A_从斜下到斜上_薄刃快斩.aseprite",
+      "source_sha256": "c4954ae1386a5353029fce6fbf7aace83dbf4fb4b43a96e2d35c1a5fc9e659d1",
+      "output_sha256": "c0695017bb28eded99d15181abe4d9c4bb6f7a63ce6903ec4ba25fafb05bd7d3",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "04_B_从斜下到斜上_宽弧重斩.aseprite",
+      "source_sha256": "ddf0412712d92627f63e36e863ff27e1a9d2c653daf204d5449d048db1ca246b",
+      "output_sha256": "1e78e0ec2fda0f52e9ab037a2c1062aa78d064a2106ef187a8fd7c06b94a9e86",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "04_C_从斜下到斜上_碎风多刃.aseprite",
+      "source_sha256": "b33bed1ad0b8c7458e4b43fd4af5fe07de6ec26ef34baf13d5b466016888b181",
+      "output_sha256": "6eb71057277783b1f653a1c1970f748895912c2d8bea57314c826ee02abe7d65",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "05_A_横斩_左到右_薄刃快斩.aseprite",
+      "source_sha256": "e5f4d8dd278531e4387e7d144d18b24c6263cf7f1bdaefb50b25b45d64a23656",
+      "output_sha256": "5e45e19a931e5877a0bb625a8e26a0849adf570b26ecc193724192d2fa1971bc",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "05_B_横斩_左到右_宽弧重斩.aseprite",
+      "source_sha256": "ba772ba30148b8772b7c72eac054ec9c07828a9659ea73dac71a8a8e8b3c1001",
+      "output_sha256": "5535df63ad9190024f647f806669e8aef39259aab751cdefd01ac22019c12d01",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "05_C_横斩_左到右_碎风多刃.aseprite",
+      "source_sha256": "53b65d00c354ed9479605d6a1a5fd78ab981b7ec8e3b31a637a2bfe04a06ae6b",
+      "output_sha256": "f8fe81927300933de691c2e23b369e51805009ad2505a3a1b11f4881bc5580e0",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "06_A_反向横斩_右到左_薄刃快斩.aseprite",
+      "source_sha256": "91b3955fc37f1ac561cea0a494a253dcc472ce121bf91c9f47803d1d4cb44195",
+      "output_sha256": "89cf7e18fe50a703b5e8c36a35a21745e6bc677ba1f5e6970a97d0a7719242f1",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "06_B_反向横斩_右到左_宽弧重斩.aseprite",
+      "source_sha256": "d8e6d62bf0628b29de294b79997d755fdcb0ec1728162f1dd3949950404350fb",
+      "output_sha256": "aae902cdecb9c0bdc30cdb9da4d66f7fd62d350c224c429b71f5a122027b3546",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "1_红白",
+      "source": "06_C_反向横斩_右到左_碎风多刃.aseprite",
+      "source_sha256": "c7bdf76df8c93bd8de2536df16583a13a214adeebc6424290259abf156795901",
+      "output_sha256": "448e115a7d62c1c77623187b782f0a12ca7d3c4b98139fcc878ab44d078880c6",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "01_A_从上到下_薄刃快斩.aseprite",
+      "source_sha256": "e430ff7a8b463f4be77b1686d0717238dea3f7bdc713060bef63c097dce9cde0",
+      "output_sha256": "1d5c0ee3a99c0a2cc16a98d2cf314ba004732cbe43a737632d01ab92c8f0c51c",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "01_B_从上到下_宽弧重斩.aseprite",
+      "source_sha256": "e52e3d4af89fd8f86509eea8a7a05880e0ed2465f11e6db7a0aa474e5e79c71c",
+      "output_sha256": "6dc1bf18e6ec63d807101f06cd360428e8b719b4581801ab212e842e413d6e47",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "01_C_从上到下_碎风多刃.aseprite",
+      "source_sha256": "3d562382102c8139f159b58f64b1621f0cf0bac1fe185f058be432de9fd13cb2",
+      "output_sha256": "b3995d611825ac025e682c2f3890e979ae8523d97ef6fad846d6d6112a70ed32",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "02_A_从斜上到斜下_薄刃快斩.aseprite",
+      "source_sha256": "64b2d129bf3938cc592e32b23f4557fc04425078d8f8f795d95b789ce8346226",
+      "output_sha256": "9ca254671497d30ab87dcf98e389f91bd17c7821a5d36d6f351bc17e819cd8f7",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "02_B_从斜上到斜下_宽弧重斩.aseprite",
+      "source_sha256": "c2aef2764defd0756bb8f3ac9ca2b10ccac49114b15afd7253ec2309b6b49b8b",
+      "output_sha256": "390805819ce49ad0b26902c5328c6dcb54be7c249948f41ed19a36fe5174a9fb",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "02_C_从斜上到斜下_碎风多刃.aseprite",
+      "source_sha256": "58e05dfb0e7630f840de40230b3fe73d3afda5ed1a88a562d8ac087507e15ab9",
+      "output_sha256": "575ee78e805b4c903744a10482b7c2634e7dbbebe43845fbb265ab4ec7d7d557",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "03_A_从下到上_薄刃快斩.aseprite",
+      "source_sha256": "005eb69d458e3a10e444a4779c999881306d7e09d90b720cfdbf4a8d8f715dc0",
+      "output_sha256": "5a7edbb6a568fec27012728f039b89605315c499ced27d493edba63349151e9c",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "03_B_从下到上_宽弧重斩.aseprite",
+      "source_sha256": "b10312574c1d6fe3d8d18e190d7f3e71f99f69d179e607d8823d26cd7ab7ef7a",
+      "output_sha256": "8533b6feb762dd5845e7919be9f2850fdb5a137f0c59f60cb43613206816dc6d",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "03_C_从下到上_碎风多刃.aseprite",
+      "source_sha256": "ea985bc40d332d1a28b65309bb98c2bd68a03f543c41eb22380a2c4fc89edf95",
+      "output_sha256": "e7663651202de58d465b414da07db18a40f43077cc62ced958291b3b4b56a4fe",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "04_A_从斜下到斜上_薄刃快斩.aseprite",
+      "source_sha256": "c4954ae1386a5353029fce6fbf7aace83dbf4fb4b43a96e2d35c1a5fc9e659d1",
+      "output_sha256": "efc14bac7b47b68c769fd386ca0a858fab969663de2ded208a60ea3004e7a6d9",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "04_B_从斜下到斜上_宽弧重斩.aseprite",
+      "source_sha256": "ddf0412712d92627f63e36e863ff27e1a9d2c653daf204d5449d048db1ca246b",
+      "output_sha256": "7817e954910b0e4b016db409615c80d20287d8bd1a997b3458867f17cbde2ca2",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "04_C_从斜下到斜上_碎风多刃.aseprite",
+      "source_sha256": "b33bed1ad0b8c7458e4b43fd4af5fe07de6ec26ef34baf13d5b466016888b181",
+      "output_sha256": "adc97f757e70d877858f82f9b335c93aa40b1f2780197432530aecfdcec18be8",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "05_A_横斩_左到右_薄刃快斩.aseprite",
+      "source_sha256": "e5f4d8dd278531e4387e7d144d18b24c6263cf7f1bdaefb50b25b45d64a23656",
+      "output_sha256": "72ebfcd9c111784436305590a7c4f94ac138d53176181bd18257f79ce3e87c2d",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "05_B_横斩_左到右_宽弧重斩.aseprite",
+      "source_sha256": "ba772ba30148b8772b7c72eac054ec9c07828a9659ea73dac71a8a8e8b3c1001",
+      "output_sha256": "1bc0bf92cd433a567ac7afc6179a9c9e23cb0e871d91500a7b8810ea1fa45a53",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "05_C_横斩_左到右_碎风多刃.aseprite",
+      "source_sha256": "53b65d00c354ed9479605d6a1a5fd78ab981b7ec8e3b31a637a2bfe04a06ae6b",
+      "output_sha256": "cbce97a18b60d352d39a9a4ec0fb8c05347e2ab50b99b34e6c52f531ead92a28",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "06_A_反向横斩_右到左_薄刃快斩.aseprite",
+      "source_sha256": "91b3955fc37f1ac561cea0a494a253dcc472ce121bf91c9f47803d1d4cb44195",
+      "output_sha256": "3e0b0c505f72e17a68a0907ec1bb67ad6edd174bdea8c07b27d202903497ef05",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "06_B_反向横斩_右到左_宽弧重斩.aseprite",
+      "source_sha256": "d8e6d62bf0628b29de294b79997d755fdcb0ec1728162f1dd3949950404350fb",
+      "output_sha256": "15505a197a83ce99615fe10db2411651e05e678092ed0963bc450cf196f8742c",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "2_蓝白",
+      "source": "06_C_反向横斩_右到左_碎风多刃.aseprite",
+      "source_sha256": "c7bdf76df8c93bd8de2536df16583a13a214adeebc6424290259abf156795901",
+      "output_sha256": "61054186c32c70e7a5eed015905abbde2cbf72d83beb68e5e69c8d9a686be84c",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "01_A_从上到下_薄刃快斩.aseprite",
+      "source_sha256": "e430ff7a8b463f4be77b1686d0717238dea3f7bdc713060bef63c097dce9cde0",
+      "output_sha256": "e6fad5c4f10f2131747d3e33270e1907a0af3f021de3852d4edde0659e1f5515",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "01_B_从上到下_宽弧重斩.aseprite",
+      "source_sha256": "e52e3d4af89fd8f86509eea8a7a05880e0ed2465f11e6db7a0aa474e5e79c71c",
+      "output_sha256": "bba40b24f94edf4514811d85e373baa85ac593a6b3883d9dcd12fe6e61bb4836",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "01_C_从上到下_碎风多刃.aseprite",
+      "source_sha256": "3d562382102c8139f159b58f64b1621f0cf0bac1fe185f058be432de9fd13cb2",
+      "output_sha256": "e825073b54d5f085657debff9197946ffa974c9afdeb53907a28ba013a94961c",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "02_A_从斜上到斜下_薄刃快斩.aseprite",
+      "source_sha256": "64b2d129bf3938cc592e32b23f4557fc04425078d8f8f795d95b789ce8346226",
+      "output_sha256": "3bad9523f45083f41e69ce38380b5c4b4b27960ba70d10e121b40bc110d7adbe",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "02_B_从斜上到斜下_宽弧重斩.aseprite",
+      "source_sha256": "c2aef2764defd0756bb8f3ac9ca2b10ccac49114b15afd7253ec2309b6b49b8b",
+      "output_sha256": "4d40de9ffdb50335ddf9a2d0e80465728da9a137774318faff5031d892cf4151",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "02_C_从斜上到斜下_碎风多刃.aseprite",
+      "source_sha256": "58e05dfb0e7630f840de40230b3fe73d3afda5ed1a88a562d8ac087507e15ab9",
+      "output_sha256": "a9f47d47ca627c22032a514aebb39ec624396fc48e05d1f184227330afab3c62",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "03_A_从下到上_薄刃快斩.aseprite",
+      "source_sha256": "005eb69d458e3a10e444a4779c999881306d7e09d90b720cfdbf4a8d8f715dc0",
+      "output_sha256": "e6dfe2374493bc896a5cf60dd51555951da879ecb7953eb2a4c10188da6a249b",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "03_B_从下到上_宽弧重斩.aseprite",
+      "source_sha256": "b10312574c1d6fe3d8d18e190d7f3e71f99f69d179e607d8823d26cd7ab7ef7a",
+      "output_sha256": "415ab0268a8a9c232a0026ab8e411c65dd36fae6f32d870df79157b28ffab69b",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "03_C_从下到上_碎风多刃.aseprite",
+      "source_sha256": "ea985bc40d332d1a28b65309bb98c2bd68a03f543c41eb22380a2c4fc89edf95",
+      "output_sha256": "bb6af68898a47c5d232e01297c2f38a77274d48f33c8641840806d248c90a508",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "04_A_从斜下到斜上_薄刃快斩.aseprite",
+      "source_sha256": "c4954ae1386a5353029fce6fbf7aace83dbf4fb4b43a96e2d35c1a5fc9e659d1",
+      "output_sha256": "ea00b9ca9e704a91ab923c8610e5275e2f52fd7647a4e7ec3399486b1458ba30",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "04_B_从斜下到斜上_宽弧重斩.aseprite",
+      "source_sha256": "ddf0412712d92627f63e36e863ff27e1a9d2c653daf204d5449d048db1ca246b",
+      "output_sha256": "ab12e5cc3bed4323e5045a0099a95b8bee2ffa94faf3d808aae8ee456b2e65f2",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "04_C_从斜下到斜上_碎风多刃.aseprite",
+      "source_sha256": "b33bed1ad0b8c7458e4b43fd4af5fe07de6ec26ef34baf13d5b466016888b181",
+      "output_sha256": "2256538e8bc42a94daa19d17dd3e080a7d2c8bf510820e531bc1ca0f77b98c15",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "05_A_横斩_左到右_薄刃快斩.aseprite",
+      "source_sha256": "e5f4d8dd278531e4387e7d144d18b24c6263cf7f1bdaefb50b25b45d64a23656",
+      "output_sha256": "59a5e46f7665296bcdaa67d4530bd6a8d38b3436d2aaaaf75c9dc69030a15832",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "05_B_横斩_左到右_宽弧重斩.aseprite",
+      "source_sha256": "ba772ba30148b8772b7c72eac054ec9c07828a9659ea73dac71a8a8e8b3c1001",
+      "output_sha256": "4af1e7cdc079a895fad4093e66cbe9f0b59b522775126dcd6891ae7136b90a0f",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "05_C_横斩_左到右_碎风多刃.aseprite",
+      "source_sha256": "53b65d00c354ed9479605d6a1a5fd78ab981b7ec8e3b31a637a2bfe04a06ae6b",
+      "output_sha256": "ac60c883ddfbf1ec6c145ea9c6c5247fc7ccb37eee4600cbd1d7293f637d8203",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "06_A_反向横斩_右到左_薄刃快斩.aseprite",
+      "source_sha256": "91b3955fc37f1ac561cea0a494a253dcc472ce121bf91c9f47803d1d4cb44195",
+      "output_sha256": "076218143dbdaa38aa649277bd0153d0ed4481be8007eb252711ed063674bacd",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "06_B_反向横斩_右到左_宽弧重斩.aseprite",
+      "source_sha256": "d8e6d62bf0628b29de294b79997d755fdcb0ec1728162f1dd3949950404350fb",
+      "output_sha256": "8807da8deca42f50faf750de2a1e039b119cd2adea62ff4b82b4995a28d24431",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "3_橄榄绿白",
+      "source": "06_C_反向横斩_右到左_碎风多刃.aseprite",
+      "source_sha256": "c7bdf76df8c93bd8de2536df16583a13a214adeebc6424290259abf156795901",
+      "output_sha256": "2ffb959a7caf6ddae54a7392a505ce63537fa29c126ebd1b7e58794fcbf7f29f",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "01_A_从上到下_薄刃快斩.aseprite",
+      "source_sha256": "e430ff7a8b463f4be77b1686d0717238dea3f7bdc713060bef63c097dce9cde0",
+      "output_sha256": "8ecec60208dd2f81ffce7e9efa1f575a6e5a7c90bbc1da5b95d910e5912c8228",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "01_B_从上到下_宽弧重斩.aseprite",
+      "source_sha256": "e52e3d4af89fd8f86509eea8a7a05880e0ed2465f11e6db7a0aa474e5e79c71c",
+      "output_sha256": "3931ed13526f52376137d2ff7a581a8e0253c2d0203c4286d2b060dda0a3a5bb",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "01_C_从上到下_碎风多刃.aseprite",
+      "source_sha256": "3d562382102c8139f159b58f64b1621f0cf0bac1fe185f058be432de9fd13cb2",
+      "output_sha256": "74adf2deea789e80a0c2e0c6bd619f1f80961ed59ff117de6736bc7f036cbf96",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "02_A_从斜上到斜下_薄刃快斩.aseprite",
+      "source_sha256": "64b2d129bf3938cc592e32b23f4557fc04425078d8f8f795d95b789ce8346226",
+      "output_sha256": "738ae45e14ef5eae23af6c46a1bcc3b6d5117b351d46339ea8c4b3821eca70ce",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "02_B_从斜上到斜下_宽弧重斩.aseprite",
+      "source_sha256": "c2aef2764defd0756bb8f3ac9ca2b10ccac49114b15afd7253ec2309b6b49b8b",
+      "output_sha256": "58780f0069a3f828d22a98da7662d725397f6efa2a009aaaf0de2ba42e928f96",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "02_C_从斜上到斜下_碎风多刃.aseprite",
+      "source_sha256": "58e05dfb0e7630f840de40230b3fe73d3afda5ed1a88a562d8ac087507e15ab9",
+      "output_sha256": "6f8ae4a586801478bb42ebd79ce7bab850c3fa9c0fa37d27584cabd7da3c74dd",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "03_A_从下到上_薄刃快斩.aseprite",
+      "source_sha256": "005eb69d458e3a10e444a4779c999881306d7e09d90b720cfdbf4a8d8f715dc0",
+      "output_sha256": "71d76687e838ac7e7ba1a89a69362bf8dfa87fca12512a1e1c3964a0b86578a3",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "03_B_从下到上_宽弧重斩.aseprite",
+      "source_sha256": "b10312574c1d6fe3d8d18e190d7f3e71f99f69d179e607d8823d26cd7ab7ef7a",
+      "output_sha256": "b906ba69656bc479ecaaaaddf12e1114bbdfbd795f35441bd9a89d1dd77a62c2",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "03_C_从下到上_碎风多刃.aseprite",
+      "source_sha256": "ea985bc40d332d1a28b65309bb98c2bd68a03f543c41eb22380a2c4fc89edf95",
+      "output_sha256": "e439595a58e4e97570f01b03d776b7db0455060dd6c898a6a28f8a0c5963400c",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "04_A_从斜下到斜上_薄刃快斩.aseprite",
+      "source_sha256": "c4954ae1386a5353029fce6fbf7aace83dbf4fb4b43a96e2d35c1a5fc9e659d1",
+      "output_sha256": "f089a050b191b341b7633ac37601a6f8a164f9464825a6932c9fabc6d30b079e",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "04_B_从斜下到斜上_宽弧重斩.aseprite",
+      "source_sha256": "ddf0412712d92627f63e36e863ff27e1a9d2c653daf204d5449d048db1ca246b",
+      "output_sha256": "1702ea5cf4465cd1e90e10a0c65d7e59613129f04a1074884a883014d8e3e03d",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "04_C_从斜下到斜上_碎风多刃.aseprite",
+      "source_sha256": "b33bed1ad0b8c7458e4b43fd4af5fe07de6ec26ef34baf13d5b466016888b181",
+      "output_sha256": "2a52ce6a7aff704389550a2f59b2e4c494665652767df890783ff6ba51a7c505",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "05_A_横斩_左到右_薄刃快斩.aseprite",
+      "source_sha256": "e5f4d8dd278531e4387e7d144d18b24c6263cf7f1bdaefb50b25b45d64a23656",
+      "output_sha256": "05700726766e9de1cbac1d1aea4fc6e0392612f0971dc7f059e0a5c89834b886",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "05_B_横斩_左到右_宽弧重斩.aseprite",
+      "source_sha256": "ba772ba30148b8772b7c72eac054ec9c07828a9659ea73dac71a8a8e8b3c1001",
+      "output_sha256": "2d7b2919b58bdd4a5719e4a098a7ef11b12aa41190e26053aa8af02b20590710",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "05_C_横斩_左到右_碎风多刃.aseprite",
+      "source_sha256": "53b65d00c354ed9479605d6a1a5fd78ab981b7ec8e3b31a637a2bfe04a06ae6b",
+      "output_sha256": "145edfb9e442271e17be95c30d7087e7f7e71ea3d76ab512947184400039a6ac",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "06_A_反向横斩_右到左_薄刃快斩.aseprite",
+      "source_sha256": "91b3955fc37f1ac561cea0a494a253dcc472ce121bf91c9f47803d1d4cb44195",
+      "output_sha256": "7266acd905ac78bc7458bf130b131ec20ad31cdd42e435d6f12aa58d3f2c87ec",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "06_B_反向横斩_右到左_宽弧重斩.aseprite",
+      "source_sha256": "d8e6d62bf0628b29de294b79997d755fdcb0ec1728162f1dd3949950404350fb",
+      "output_sha256": "2656fce1a50f409442e058954d181447b088b2920cd6bf416d11f20275fd5cd0",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    },
+    {
+      "variant": "4_黑白",
+      "source": "06_C_反向横斩_右到左_碎风多刃.aseprite",
+      "source_sha256": "c7bdf76df8c93bd8de2536df16583a13a214adeebc6424290259abf156795901",
+      "output_sha256": "b6ac614824cc4f086201634d781c7252bb468398fff48c2a04d65508b254b158",
+      "frames_verified": 6,
+      "all_alpha_unchanged": true,
+      "non_art_chunks_byte_identical": true,
+      "native_pixel_difference": 0
+    }
+  ]
+}

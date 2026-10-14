@@ -1,0 +1,127 @@
+{
+  "source": "E:\\HomingStar\\homeing-star-temp-assert\\PendingArt\\character\\双子\\双子白-walk.png",
+  "output": "E:\\HomingStar\\homeing-star-temp-assert\\PendingArt\\character\\双子\\双子黑-walk.png",
+  "source_sha256": "2c0affc470b6dfb743855fbf07fb7c9508efc505513d160d6bacfda2d6fc40aa",
+  "output_sha256": "4b71a307a600585de27608bf90f67d3e2a4bc0f7a92ac23bcda2082793902b1e",
+  "canvas": [
+    1024,
+    1024
+  ],
+  "grid": [
+    4,
+    4
+  ],
+  "frame_size": [
+    256,
+    256
+  ],
+  "frames": 16,
+  "alpha_byte_identical": true,
+  "source_unchanged": true,
+  "pixel_layout_unchanged": true,
+  "recolored_pixels": 93433,
+  "body_ramp": [
+    [
+      0.0,
+      [
+        4,
+        8,
+        17
+      ]
+    ],
+    [
+      0.55,
+      [
+        8,
+        15,
+        29
+      ]
+    ],
+    [
+      0.8,
+      [
+        13,
+        25,
+        44
+      ]
+    ],
+    [
+      0.91,
+      [
+        21,
+        38,
+        65
+      ]
+    ],
+    [
+      0.96,
+      [
+        40,
+        63,
+        107
+      ]
+    ],
+    [
+      1.0,
+      [
+        72,
+        101,
+        157
+      ]
+    ]
+  ],
+  "fin_ramp": [
+    [
+      0.0,
+      [
+        2,
+        6,
+        15
+      ]
+    ],
+    [
+      0.45,
+      [
+        6,
+        17,
+        44
+      ]
+    ],
+    [
+      0.65,
+      [
+        9,
+        30,
+        74
+      ]
+    ],
+    [
+      0.8,
+      [
+        14,
+        43,
+        97
+      ]
+    ],
+    [
+      0.91,
+      [
+        25,
+        57,
+        116
+      ]
+    ],
+    [
+      1.0,
+      [
+        47,
+        83,
+        145
+      ]
+    ]
+  ],
+  "revision": "Pale source regions use deeper blue; original blue regions retain blue-black",
+  "existing_violet_eye_preserved": true,
+  "preview_duration_ms": 90,
+  "preview_timing_note": "PNG has no authored timing; GIF uses 90ms solely for preview."
+}

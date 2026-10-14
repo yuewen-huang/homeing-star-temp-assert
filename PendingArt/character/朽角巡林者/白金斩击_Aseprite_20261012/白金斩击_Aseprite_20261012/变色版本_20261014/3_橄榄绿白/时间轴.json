@@ -1,0 +1,632 @@
+[
+  {
+    "file": "01_A_从上到下_薄刃快斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      40,
+      50,
+      45,
+      60,
+      80
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "01_B_从上到下_宽弧重斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      60,
+      50,
+      65,
+      65,
+      75,
+      100
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "01_C_从上到下_碎风多刃.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      45,
+      55,
+      55,
+      65,
+      90
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "02_A_从斜上到斜下_薄刃快斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      40,
+      50,
+      45,
+      60,
+      80
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "02_B_从斜上到斜下_宽弧重斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      60,
+      50,
+      65,
+      65,
+      75,
+      100
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "02_C_从斜上到斜下_碎风多刃.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      45,
+      55,
+      55,
+      65,
+      90
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "03_A_从下到上_薄刃快斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      40,
+      50,
+      45,
+      60,
+      80
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "03_B_从下到上_宽弧重斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      60,
+      50,
+      65,
+      65,
+      75,
+      100
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "03_C_从下到上_碎风多刃.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      45,
+      55,
+      55,
+      65,
+      90
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "04_A_从斜下到斜上_薄刃快斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      40,
+      50,
+      45,
+      60,
+      80
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "04_B_从斜下到斜上_宽弧重斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      60,
+      50,
+      65,
+      65,
+      75,
+      100
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "04_C_从斜下到斜上_碎风多刃.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      45,
+      55,
+      55,
+      65,
+      90
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "05_A_横斩_左到右_薄刃快斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      40,
+      50,
+      45,
+      60,
+      80
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "05_B_横斩_左到右_宽弧重斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      60,
+      50,
+      65,
+      65,
+      75,
+      100
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "05_C_横斩_左到右_碎风多刃.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      45,
+      55,
+      55,
+      65,
+      90
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "06_A_反向横斩_右到左_薄刃快斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      40,
+      50,
+      45,
+      60,
+      80
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "06_B_反向横斩_右到左_宽弧重斩.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      60,
+      50,
+      65,
+      65,
+      75,
+      100
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "file": "06_C_反向横斩_右到左_碎风多刃.aseprite",
+    "frames": 6,
+    "canvas": [
+      128,
+      128
+    ],
+    "timings_ms": [
+      45,
+      45,
+      55,
+      55,
+      65,
+      90
+    ],
+    "layers": [
+      {
+        "name": "定位点_隐藏",
+        "visible": false,
+        "opacity": 255
+      },
+      {
+        "name": "斩击特效_可编辑",
+        "visible": true,
+        "opacity": 255
+      },
+      {
+        "name": "微调_可编辑",
+        "visible": true,
+        "opacity": 255
+      }
+    ],
+    "native_aseprite_verified": true,
+    "max_pixel_difference": 0
+  }
+]
