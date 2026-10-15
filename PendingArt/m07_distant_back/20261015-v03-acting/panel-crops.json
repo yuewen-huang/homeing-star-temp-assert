@@ -1,0 +1,86 @@
+[
+  {
+    "file": "01_distant_back.png",
+    "source": "page-01.png",
+    "box": [
+      13,
+      9,
+      1011,
+      389
+    ],
+    "size": [
+      998,
+      380
+    ]
+  },
+  {
+    "file": "02_recognition.png",
+    "source": "page-01.png",
+    "box": [
+      13,
+      407,
+      498,
+      721
+    ],
+    "size": [
+      485,
+      314
+    ]
+  },
+  {
+    "file": "03_backpack_glimmer.png",
+    "source": "page-01.png",
+    "box": [
+      518,
+      407,
+      1011,
+      721
+    ],
+    "size": [
+      493,
+      314
+    ]
+  },
+  {
+    "file": "04_calling.png",
+    "source": "page-01.png",
+    "box": [
+      13,
+      741,
+      618,
+      1092
+    ],
+    "size": [
+      605,
+      351
+    ]
+  },
+  {
+    "file": "05_losing_sight.png",
+    "source": "page-01.png",
+    "box": [
+      639,
+      741,
+      1011,
+      1092
+    ],
+    "size": [
+      372,
+      351
+    ]
+  },
+  {
+    "file": "06_empty_branches.png",
+    "source": "page-01.png",
+    "box": [
+      13,
+      1113,
+      1011,
+      1523
+    ],
+    "size": [
+      998,
+      410
+    ]
+  }
+]

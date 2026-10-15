@@ -1,0 +1,86 @@
+[
+  {
+    "file": "01_blocked_path.png",
+    "source": "page-01.png",
+    "box": [
+      14,
+      11,
+      1010,
+      386
+    ],
+    "size": [
+      996,
+      375
+    ]
+  },
+  {
+    "file": "02_unease.png",
+    "source": "page-01.png",
+    "box": [
+      14,
+      405,
+      489,
+      749
+    ],
+    "size": [
+      475,
+      344
+    ]
+  },
+  {
+    "file": "03_white_chest.png",
+    "source": "page-01.png",
+    "box": [
+      508,
+      405,
+      1010,
+      749
+    ],
+    "size": [
+      502,
+      344
+    ]
+  },
+  {
+    "file": "04_hostility.png",
+    "source": "page-01.png",
+    "box": [
+      14,
+      767,
+      486,
+      1104
+    ],
+    "size": [
+      472,
+      337
+    ]
+  },
+  {
+    "file": "05_sword_guard.png",
+    "source": "page-01.png",
+    "box": [
+      505,
+      767,
+      1010,
+      1104
+    ],
+    "size": [
+      505,
+      337
+    ]
+  },
+  {
+    "file": "06_confrontation.png",
+    "source": "page-01.png",
+    "box": [
+      14,
+      1124,
+      1010,
+      1521
+    ],
+    "size": [
+      996,
+      397
+    ]
+  }
+]

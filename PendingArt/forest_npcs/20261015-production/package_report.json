@@ -1,0 +1,338 @@
+{
+  "yupo": {
+    "id": "yupo",
+    "name": "榆婆",
+    "species": "red_squirrel",
+    "frame_size": [
+      128,
+      160
+    ],
+    "frame_count": 4,
+    "feet_anchor": [
+      64,
+      152
+    ],
+    "default_draw_scale": 0.635837,
+    "animation_fps": 3.0,
+    "frame_durations": [
+      6.0,
+      1.0,
+      0.35,
+      1.0
+    ],
+    "loop_seconds": 2.783333333333333,
+    "expressions": [
+      "normal",
+      "concerned",
+      "relieved"
+    ],
+    "portrait_canvas": [
+      120,
+      107
+    ],
+    "pose_checks": [
+      {
+        "bbox": [
+          3,
+          9,
+          105,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          3,
+          10,
+          105,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          3,
+          10,
+          106,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          3,
+          9,
+          105,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      }
+    ],
+    "idle_source_scale": 0.45714285714285713,
+    "portrait_scale": 0.15070422535211267
+  },
+  "ali": {
+    "id": "ali",
+    "name": "阿砾",
+    "species": "beaver",
+    "frame_size": [
+      128,
+      160
+    ],
+    "frame_count": 4,
+    "feet_anchor": [
+      64,
+      152
+    ],
+    "default_draw_scale": 0.68857,
+    "animation_fps": 3.0,
+    "frame_durations": [
+      6.0,
+      1.0,
+      0.35,
+      1.0
+    ],
+    "loop_seconds": 2.783333333333333,
+    "expressions": [
+      "normal",
+      "concerned",
+      "relieved"
+    ],
+    "portrait_canvas": [
+      120,
+      107
+    ],
+    "pose_checks": [
+      {
+        "bbox": [
+          8,
+          10,
+          119,
+          153
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          8,
+          9,
+          121,
+          153
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          7,
+          10,
+          118,
+          153
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          7,
+          10,
+          120,
+          153
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      }
+    ],
+    "idle_source_scale": 0.43159922928709055,
+    "portrait_scale": 0.1621212121212121
+  },
+  "lingwei": {
+    "id": "lingwei",
+    "name": "铃尾",
+    "species": "rabbit",
+    "frame_size": [
+      128,
+      160
+    ],
+    "frame_count": 4,
+    "feet_anchor": [
+      64,
+      152
+    ],
+    "default_draw_scale": 0.777778,
+    "animation_fps": 3.0,
+    "frame_durations": [
+      6.0,
+      1.0,
+      0.35,
+      1.0
+    ],
+    "loop_seconds": 2.783333333333333,
+    "expressions": [
+      "normal",
+      "concerned",
+      "relieved"
+    ],
+    "portrait_canvas": [
+      120,
+      107
+    ],
+    "pose_checks": [
+      {
+        "bbox": [
+          31,
+          8,
+          100,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          31,
+          8,
+          100,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          31,
+          8,
+          100,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          31,
+          8,
+          100,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      }
+    ],
+    "idle_source_scale": 0.4838012958963283,
+    "portrait_scale": 0.15263908701854492
+  },
+  "xiaosui": {
+    "id": "xiaosui",
+    "name": "小穗",
+    "species": "red_squirrel",
+    "frame_size": [
+      128,
+      160
+    ],
+    "frame_count": 4,
+    "feet_anchor": [
+      64,
+      152
+    ],
+    "default_draw_scale": 0.681601,
+    "animation_fps": 3.0,
+    "frame_durations": [
+      6.0,
+      1.0,
+      0.35,
+      1.0
+    ],
+    "loop_seconds": 2.783333333333333,
+    "expressions": [
+      "normal",
+      "concerned",
+      "relieved"
+    ],
+    "portrait_canvas": [
+      120,
+      107
+    ],
+    "pose_checks": [
+      {
+        "bbox": [
+          11,
+          9,
+          99,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          10,
+          8,
+          100,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          10,
+          9,
+          99,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      },
+      {
+        "bbox": [
+          9,
+          8,
+          99,
+          152
+        ],
+        "feet": [
+          64,
+          152
+        ]
+      }
+    ],
+    "idle_source_scale": 0.4057971014492754,
+    "portrait_scale": 0.1494413407821229
+  }
+}

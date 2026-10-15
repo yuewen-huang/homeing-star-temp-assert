@@ -1,0 +1,86 @@
+[
+  {
+    "file": "01_farewell.png",
+    "source": "page-01.png",
+    "box": [
+      12,
+      8,
+      570,
+      808
+    ],
+    "size": [
+      558,
+      800
+    ]
+  },
+  {
+    "file": "02_town_street.png",
+    "source": "page-01.png",
+    "box": [
+      592,
+      8,
+      1014,
+      808
+    ],
+    "size": [
+      422,
+      800
+    ]
+  },
+  {
+    "file": "03_town_gate.png",
+    "source": "page-01.png",
+    "box": [
+      12,
+      830,
+      1014,
+      1525
+    ],
+    "size": [
+      1002,
+      695
+    ]
+  },
+  {
+    "file": "04_forest_path.png",
+    "source": "page-02.png",
+    "box": [
+      14,
+      9,
+      1013,
+      464
+    ],
+    "size": [
+      999,
+      455
+    ]
+  },
+  {
+    "file": "05_lan_notices.png",
+    "source": "page-02.png",
+    "box": [
+      14,
+      482,
+      297,
+      1525
+    ],
+    "size": [
+      283,
+      1043
+    ]
+  },
+  {
+    "file": "06_yupo_searching.png",
+    "source": "page-02.png",
+    "box": [
+      315,
+      482,
+      1013,
+      1525
+    ],
+    "size": [
+      698,
+      1043
+    ]
+  }
+]

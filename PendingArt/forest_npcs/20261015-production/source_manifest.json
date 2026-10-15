@@ -1,0 +1,49 @@
+{
+  "approval": "User approved all four designs on 2026-10-15",
+  "characters": {
+    "yupo": {
+      "body_source_size": [
+        306,
+        453
+      ],
+      "portrait_source_size": [
+        346,
+        368
+      ],
+      "reference_canvas": "1024x1024; strip x=0..1024,y=384..640; four 256x256 slots"
+    },
+    "ali": {
+      "body_source_size": [
+        377,
+        494
+      ],
+      "portrait_source_size": [
+        402,
+        368
+      ],
+      "reference_canvas": "1024x1024; strip x=0..1024,y=384..640; four 256x256 slots"
+    },
+    "lingwei": {
+      "body_source_size": [
+        262,
+        558
+      ],
+      "portrait_source_size": [
+        371,
+        394
+      ],
+      "reference_canvas": "1024x1024; strip x=0..1024,y=384..640; four 256x256 slots"
+    },
+    "xiaosui": {
+      "body_source_size": [
+        286,
+        489
+      ],
+      "portrait_source_size": [
+        332,
+        394
+      ],
+      "reference_canvas": "1024x1024; strip x=0..1024,y=384..640; four 256x256 slots"
+    }
+  }
+}

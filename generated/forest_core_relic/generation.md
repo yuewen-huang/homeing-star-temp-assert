@@ -1,0 +1,7 @@
+# 纳灵佩原始素材
+
+使用内置 image_gen 生成，透明 PNG。正式资源：`homeing-star-game/assets/ui/items/spirit_pendant.png`。四个空槽在运行时根据已保存的独立吸收记录点亮，不修改原图。
+
+## 最终提示词
+
+Use case: stylized-concept. Asset type: transparent PNG inventory item and 250px acquisition reveal icon for a Chinese fantasy pixel-art action RPG. Create one single isolated collectible, named conceptually a spirit-absorbing pendant (no lettering). Compact aged warm bronze pendant with a jade ring body and a central clear smoky crystal vessel. Exactly FOUR distinct empty recessed receptacles equally spaced at top/right/bottom/left around the vessel; all four are uncharged pale gray translucent jade with dark hollow interiors, subtly engraved motifs suggesting mist curl, root branching, wind spiral, and vine leaf, readable silhouette. Short faded teal cord loop at top and modest tassel at bottom, restrained handcrafted worn details. Icon viewed almost front-on with subtle thickness, large coherent shapes and crisp deliberate pixel clusters, warm highlights upper left and rich dark outline, matching a detailed pixel-art amber quest orb aesthetic. Main object fills about 80 percent of square canvas with even transparent padding, fully visible, no cropping. Empty central crystal is visually a container rather than a glowing full gem. No glowing elemental orbs yet, no scenery, no characters, no UI frame, no text, no watermark. Genuine transparent background. Production game sprite, pixel art, not photorealistic and not smooth vector.
